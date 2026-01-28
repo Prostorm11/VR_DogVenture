@@ -7,11 +7,10 @@ Logs/
 MemoryCaptures/
 UserSettings/
 
-# OS generated files
-.DS_Store
-Thumbs.db
+# Visual Studio cache (IMPORTANT)
+.vs/
 
-# Visual Studio / JetBrains files
+# IDE project files
 *.csproj
 *.sln
 *.user
@@ -19,3 +18,7 @@ Thumbs.db
 *.booproj
 *.svd
 *.VC.db
+
+# OS generated files
+.DS_Store
+Thumbs.db
