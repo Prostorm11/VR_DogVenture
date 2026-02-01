@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gabriel\\Desktop\\projects\\VR_DogVenture\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2682D01-3528-8EDA-09EE-E9D241C27EB4}|Assembly-CSharp.csproj|c:\\users\\gabriel\\desktop\\projects\\vr_dogventure\\assets\\myscypts\\dogcompanion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2682D01-3528-8EDA-09EE-E9D241C27EB4}|Assembly-CSharp.csproj|solutionrelative:assets\\myscypts\\dogcompanion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{739D1712-DCC8-8BB5-914C-A7C5A7BBBDEE}|Unity.XR.Interaction.Toolkit.Samples.StarterAssets.csproj|C:\\Users\\Gabriel\\Desktop\\projects\\VR_DogVenture\\assets\\samples\\xr interaction toolkit\\3.3.0\\starter assets\\scripts\\gazeinputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{739D1712-DCC8-8BB5-914C-A7C5A7BBBDEE}|Unity.XR.Interaction.Toolkit.Samples.StarterAssets.csproj|solutionrelative:assets\\samples\\xr interaction toolkit\\3.3.0\\starter assets\\scripts\\gazeinputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gabriel\\Desktop\\projects\\VR_DogVenture\\Library\\PackageCache\\com.unity.xr.core-utils@f0450cbac8d6\\Runtime\\XROrigin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.xr.core-utils@f0450cbac8d6\\Runtime\\XROrigin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2682D01-3528-8EDA-09EE-E9D241C27EB4}|Assembly-CSharp.csproj|C:\\Users\\Gabriel\\Desktop\\projects\\VR_DogVenture\\assets\\scripts\\core\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2682D01-3528-8EDA-09EE-E9D241C27EB4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\core\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gabriel\\Desktop\\projects\\VR_DogVenture\\Library\\PackageCache\\com.unity.render-pipelines.universal@cc5029882822\\Shaders\\Lit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.render-pipelines.universal@cc5029882822\\Shaders\\Lit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gabriel\\Desktop\\projects\\VR_DogVenture\\Assets\\VR game logic\\Assets\\TutorialInfo\\Scripts\\Readme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\VR game logic\\Assets\\TutorialInfo\\Scripts\\Readme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DogCompanion.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\projects\\VR_DogVenture\\Assets\\MyScypts\\DogCompanion.cs",
+              "RelativeDocumentMoniker": "Assets\\MyScypts\\DogCompanion.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\projects\\VR_DogVenture\\Assets\\MyScypts\\DogCompanion.cs",
+              "RelativeToolTip": "Assets\\MyScypts\\DogCompanion.cs",
+              "ViewState": "AgIAADMBAAAAAAAAAAAwwPQBAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T23:30:29.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GazeInputManager.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\projects\\VR_DogVenture\\Assets\\Samples\\XR Interaction Toolkit\\3.3.0\\Starter Assets\\Scripts\\GazeInputManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Samples\\XR Interaction Toolkit\\3.3.0\\Starter Assets\\Scripts\\GazeInputManager.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\projects\\VR_DogVenture\\Assets\\Samples\\XR Interaction Toolkit\\3.3.0\\Starter Assets\\Scripts\\GazeInputManager.cs",
+              "RelativeToolTip": "Assets\\Samples\\XR Interaction Toolkit\\3.3.0\\Starter Assets\\Scripts\\GazeInputManager.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAMwDYAAADgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T15:01:45.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "XROrigin.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\projects\\VR_DogVenture\\Library\\PackageCache\\com.unity.xr.core-utils@f0450cbac8d6\\Runtime\\XROrigin.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.xr.core-utils@f0450cbac8d6\\Runtime\\XROrigin.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\projects\\VR_DogVenture\\Library\\PackageCache\\com.unity.xr.core-utils@f0450cbac8d6\\Runtime\\XROrigin.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.xr.core-utils@f0450cbac8d6\\Runtime\\XROrigin.cs",
+              "ViewState": "AgIAAD0BAAAAAAAAAAAMwFEBAACYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T16:07:41.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\projects\\VR_DogVenture\\Assets\\Scripts\\Core\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Core\\GameManager.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\projects\\VR_DogVenture\\Assets\\Scripts\\Core\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Core\\GameManager.cs",
+              "ViewState": "AgIAAKQAAAAAAAAAAAApwL0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T10:19:35.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Lit.shader",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\projects\\VR_DogVenture\\Library\\PackageCache\\com.unity.render-pipelines.universal@cc5029882822\\Shaders\\Lit.shader",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.render-pipelines.universal@cc5029882822\\Shaders\\Lit.shader",
+              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\projects\\VR_DogVenture\\Library\\PackageCache\\com.unity.render-pipelines.universal@cc5029882822\\Shaders\\Lit.shader",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.render-pipelines.universal@cc5029882822\\Shaders\\Lit.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-01-28T09:15:54.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Readme.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\projects\\VR_DogVenture\\Assets\\VR game logic\\Assets\\TutorialInfo\\Scripts\\Readme.cs",
+              "RelativeDocumentMoniker": "Assets\\VR game logic\\Assets\\TutorialInfo\\Scripts\\Readme.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\projects\\VR_DogVenture\\Assets\\VR game logic\\Assets\\TutorialInfo\\Scripts\\Readme.cs",
+              "RelativeToolTip": "Assets\\VR game logic\\Assets\\TutorialInfo\\Scripts\\Readme.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T08:20:41.937Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
