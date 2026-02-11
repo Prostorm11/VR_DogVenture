@@ -11,7 +11,7 @@ public class FirstPersonMovement : MonoBehaviour
     public float runSpeed = 9f;
     public KeyCode runningKey = KeyCode.LeftShift;
 
-    private Rigidbody rigidbody;
+    new private Rigidbody rigidbody;
     public List<System.Func<float>> speedOverrides = new List<System.Func<float>>();
 
     void Awake()
